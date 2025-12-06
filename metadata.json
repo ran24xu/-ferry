@@ -1,0 +1,7 @@
+{
+  "name": "见岸 Ferry AI",
+  "description": "看见彼岸，渡你抵达。你的学术生涯渡轮。Ferry to Your Future.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
